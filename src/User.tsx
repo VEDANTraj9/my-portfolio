@@ -87,7 +87,7 @@ const SkillInfo = [
 const socialLinks = [
     { link: "https://github.com/VEDANTraj9", icon: IconBrandGithub },
     { link: "https://www.linkedin.com/in/manikant-kumar-900158211/", icon: IconBrandLinkedin },
-    { link: "https://www.instagram.com/official_ved__35.6k/", icon: IconBrandInstagram },
+    { link: "https://www.instagram.com/official_vedent09/", icon: IconBrandInstagram },
     { link: "https://www.youtube.com/ManikantKumar-b4y", icon: IconBrandYoutube },
     { link: "https://leetcode.com/u/vedantraj9/", icon: IconBrandLeetcode }
 ];
